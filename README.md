@@ -7,6 +7,8 @@ you should not click on random links
 and allow critical permissions such 
 as Location etc.
 
+•WORKING
+
 Kali Linux / Arch Linux / Ubuntu
 Parrot OS / Termux
 

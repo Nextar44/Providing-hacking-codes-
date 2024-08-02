@@ -10,10 +10,17 @@ as Location etc.
 Kali Linux / Arch Linux / Ubuntu
 Parrot OS / Termux
 
+
 $ git clone
-https://github.com/thewhiteh4t/seeker.git
+https://github.com/thewhiteh4t/seeker.git 
+
+
 $ cd seeker/
+
+
 $ chmod +x install.sh
+
+
 $ ./install.sh
 
 
